@@ -553,29 +553,7 @@ Sunday: 10:00 AM - 4:00 PM</p>
             <a itemprop="sameAs" href="https://g.page/toppronails?share" class="fa fa-google-plus-official fa-2x" style="color:forestgreen; font-size:xx-large"></a>
                     <a itemprop="sameAs" href="https://www.facebook.com/toppronails/" class="fa fa-facebook-official fa-2x" style="color:dodgerblue; font-size:xx-large"></a>
                     </div>
-        <!--announcement-->
-        <div class="panel panel-default popupPanel" style="width: 350px;position: fixed;margin-left: -175px;top:155px;left: 50%;background-color:Violet; color:white;border-color:Violet; border-style:groove">
-
-            <!--<div class="panel-heading" style="">Announcement!<span class="pull-right btn btn-danger btn-xs popupPanelCancel">&times;</span></div>-->
-            <div class="panel-heading" style="color:Violet">
-                Important!
-                <form class="delete pull-right" action="https://toppronails.com/Home/CloseAnnouncement" method="post" style="">
-                    <div style="float:left">
-                        <input type="submit" value="x" style="" class="pull-right btn btn-danger btn-sm popupPanelCancel"/>
-
-                    </div>
-
-                </form>
-            </div>
-            <div class="panel-body" style="padding:5px">
-                    <div style="color:white;margin-bottom:5px; white-space:pre-line"  class="popupDetail"> *Gift Certificate Available.
-	  *Appt &amp; Walk-Ins Welcomed.
-	  *We use ultra-hygienic disposable liners for each customer to prevent cross-contamination</div>
-
-                    <img src='../MyPhotosGalary/CouponsAndAdsIMG/IMG_1023.JPG' class="img-responsive center-block"/>
-
-            </div>
-        </div>
+        
 
 
 
